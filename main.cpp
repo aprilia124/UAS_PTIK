@@ -2,11 +2,9 @@
 
 using namespace std;
 
-int main()
-{
-    int buku, harga=3000;
-    cout<<"diskon toko buku" <<endl;
-    cout<<"harga buku:"<<harga<<endl;
+int main()ni
+    cout<<"diskon toko buku" <<endl ;
+    cout<<"harga buku:"<<harga<<endl; 
     cout<<"masukan jumlah buku:";
     cin>>buku;
     if (buku>=5)
