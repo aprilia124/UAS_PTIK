@@ -6,7 +6,7 @@ int main()
 {
     int buku, harga=3000;
     cout<<"diskon toko buku" <<endl;
-    cout<<"harga buku:"<<harga<<endl;
+    cin<<"harga buku:" <<harga<<endl;
     cout<<"masukan jumlah buku:";
     cin>>buku;
     if (buku>=5)
